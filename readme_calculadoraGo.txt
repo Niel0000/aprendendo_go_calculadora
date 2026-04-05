@@ -46,8 +46,10 @@ calculadora/
 
 ## ▶️ Como executar
 
-```bash
+No termianl digite: 
 go run main.go
+
+Exemplo de funcionamento:
 
 ======== Calculadora ========
 1 - Soma
